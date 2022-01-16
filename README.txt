@@ -1,3 +1,7 @@
+Open source blogging site created with the help of CoreySchafer youtube channel.
+
+It is a blogging site created using flask microframework to post anything about any topic.
+
 pip install secrets
 pip install flask
 pip install flask_sqlalchemy
